@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|c:\\users\\pmls\\studioprojects\\googleauthenticationoel2\\googleauthentication\\googleauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|solutionrelative:googleauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|c:\\users\\pmls\\studioprojects\\googleauthenticationoel2\\googleauthentication\\googleauthentication\\controllers\\detectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|solutionrelative:googleauthentication\\controllers\\detectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|c:\\users\\pmls\\studioprojects\\googleauthenticationoel2\\googleauthentication\\googleauthentication\\models\\scriptinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|solutionrelative:googleauthentication\\models\\scriptinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|c:\\users\\pmls\\studioprojects\\googleauthenticationoel2\\googleauthentication\\googleauthentication\\models\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|solutionrelative:googleauthentication\\models\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|c:\\users\\pmls\\studioprojects\\googleauthenticationoel2\\googleauthentication\\googleauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|solutionrelative:googleauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9242A420-EA9C-4879-8349-9E6E2C004A72}|GoogleAuthentication\\GoogleAuthentication.csproj|c:\\users\\pmls\\studioprojects\\googleauthenticationoel2\\googleauthentication\\googleauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "OTPRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Models\\OTPRequest.cs",
+              "RelativeDocumentMoniker": "GoogleAuthentication\\Models\\OTPRequest.cs",
+              "ToolTip": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Models\\OTPRequest.cs",
+              "RelativeToolTip": "GoogleAuthentication\\Models\\OTPRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:03:22.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScriptInput.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Models\\ScriptInput.cs",
+              "RelativeDocumentMoniker": "GoogleAuthentication\\Models\\ScriptInput.cs",
+              "ToolTip": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Models\\ScriptInput.cs*",
+              "RelativeToolTip": "GoogleAuthentication\\Models\\ScriptInput.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:03:12.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "GoogleAuthentication\\Controllers\\AuthController.cs",
@@ -55,20 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DetectionController.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Controllers\\DetectionController.cs",
               "RelativeDocumentMoniker": "GoogleAuthentication\\Controllers\\DetectionController.cs",
-              "ToolTip": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Controllers\\DetectionController.cs",
-              "RelativeToolTip": "GoogleAuthentication\\Controllers\\DetectionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Controllers\\DetectionController.cs*",
+              "RelativeToolTip": "GoogleAuthentication\\Controllers\\DetectionController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T05:02:41.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GoogleAuthentication\\Controllers\\HomeController.cs",
@@ -81,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GoogleAuthentication\\Views\\Home\\Index.cshtml",
@@ -94,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "GoogleAuthentication\\Models\\LoginModel.cs",
@@ -107,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Web.config",
               "RelativeDocumentMoniker": "GoogleAuthentication\\Web.config",
@@ -120,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\PMLS\\StudioProjects\\GoogleAuthenticationOEL2\\GoogleAuthentication\\GoogleAuthentication\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "GoogleAuthentication\\Views\\Home\\Login.cshtml",
